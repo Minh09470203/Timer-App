@@ -1,16 +1,36 @@
-# timer_app
+# Flutter Timer App
 
-A new Flutter project.
+A simple and beautiful timer application built with Flutter. The app features a modern UI, start/pause/reset controls, and displays elapsed time in minutes and seconds.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Start, pause, and reset timer
+- Animated timer display
+- Gradient background and custom fonts
+- Responsive design
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
+  
+2. **Install dependencies:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Run the app:**
+
+## Usage
+
+- Press **Start** to begin the timer.
+- Press **Pause** to stop counting.
+- Press **Reset** to set the timer back to 00:00.
+
+## Dependencies
+
+- [Flutter](https://flutter.dev/)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+
+## Screenshots
+
+
+## License
+
+MIT License

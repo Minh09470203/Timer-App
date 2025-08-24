@@ -29,7 +29,7 @@ A simple and beautiful timer application built with Flutter. The app features a 
 - [google_fonts](https://pub.dev/packages/google_fonts)
 
 ## Screenshots
-![screen](Screenshots)
+![screen](Screenshots/Screenshot 2025-08-24 142038.png)
 
 ## License
 
